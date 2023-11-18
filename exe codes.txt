@@ -1,0 +1,3 @@
+Abort by user - This installation has been installed by user,you can start installer again.
+Dreammaker already exist on this computer - This code appears when dreammaker is installed on your computer.In order to installed new version of dreammaker you must an installed version first.
+
